@@ -1,4 +1,4 @@
-# 🌐 IoT Specialization Projects – IFES (Postgraduate Course)
+# 🌐 IoT Specialization Projects
 
 > This repository showcases the hands-on projects developed during the Lato Sensu Postgraduate Program in **Internet of Things (IoT)** at IFES, under the Universidade Aberta Capixaba (UnAC - Ifes) program. All content was produced in a 100% online setting, focusing on real-world applications using Arduino-based hardware.
 
