@@ -4,7 +4,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 iot-specialization/
@@ -29,7 +29,7 @@ iot-specialization/
 
 ---
 
-## 🔧 Projects Overview
+## Projects Overview
 
 ### 🚦 Traffic Light Control for Intersection
 
@@ -61,7 +61,7 @@ A modular LED system for signaling environments, developed for industrial or edu
 
 ---
 
-## 📚 Course Summary
+## Course Summary
 
 | Discipline              | Hours |
 |-------------------------|-------|
@@ -76,7 +76,7 @@ A modular LED system for signaling environments, developed for industrial or edu
 
 ---
 
-## 🪪 License
+## License
 
 This repository is licensed under the MIT License. Feel free to explore, learn, and expand upon the provided projects.
  
